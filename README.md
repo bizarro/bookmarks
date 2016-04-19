@@ -47,6 +47,8 @@
 - [Resn](http://placeholder.resn.co.nz/)
 - [Projektyl](http://projektil.ch/)
 - [Red Collar](http://redcollar.digital/)
+- [BLUR](http://www.blur.com/)
+- [The Mill](http://www.themill.com/)
 
 ## Inspiration
 - [Cryptaris Mission](http://www.cryptarismission.com/)
@@ -134,6 +136,9 @@
 - [Jordan Machado](http://jojo.ninja/)
 - [Dimitrie Lima](http://dmtr.org/)
 - [Jason Smith](http://beautifulprogramming.com/)
+- [Anders Hoff](http://inconvergent.net/)
+- [Éric Renaud-Houde](http://num3ric.com/)
+- [Nick Hardeman](http://nickhardeman.com/)
 
 ## Experiments
 - [Activation Nodeplus Lab](http://www.acnplwgl.com/)
@@ -196,6 +201,7 @@
 - [Creative Bloq](http://www.creativebloq.com/)
 - [Fubiz Media](http://www.fubiz.net/)
 - [Think With Google](https://www.thinkwithgoogle.com/)
+- [Creative AI](http://www.creativeai.net/)
 
 ## Resources
 - [Bento](https://bento.io/)
