@@ -49,6 +49,7 @@
 - [Red Collar](http://redcollar.digital/)
 - [BLUR](http://www.blur.com/)
 - [The Mill](http://www.themill.com/)
+- [Red Paper Heart](http://www.redpaperheart.com/)
 
 ## Inspiration
 - [Cryptaris Mission](http://www.cryptarismission.com/)
@@ -139,6 +140,7 @@
 - [Anders Hoff](http://inconvergent.net/)
 - [Éric Renaud-Houde](http://num3ric.com/)
 - [Nick Hardeman](http://nickhardeman.com/)
+- [Isaac Cohen](http://cabbi.bo/)
 
 ## Experiments
 - [Activation Nodeplus Lab](http://www.acnplwgl.com/)
