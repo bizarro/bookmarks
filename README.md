@@ -3,7 +3,7 @@
 
 ## Topics
 - [Companies](#companies)
-- [Inspiration](#Inspiration)
+- [Inspiration](#inspiration)
 - [People](#people)
 - [Experiments](#experiments)
 - [Computer Graphics](#computer-graphics)
@@ -50,6 +50,7 @@
 - [BLUR](http://www.blur.com/)
 - [The Mill](http://www.themill.com/)
 - [Red Paper Heart](http://www.redpaperheart.com/)
+- [Variable](http://variable.io/)
 
 ## Inspiration
 - [Cryptaris Mission](http://www.cryptarismission.com/)
@@ -97,6 +98,8 @@
 - [The Next Rembrandt](https://www.nextrembrandt.com/)
 - [MAEVR](http://maevr.vertigomusic.com/)
 - [Studio Marani](http://www.studiomarani.it/en/)
+- [Cavalier](https://cavalierchallenge.com/)
+- [Sirin Solarin](http://www.sirinlabs.com/)
 
 ## People
 - [James George](http://jamesgeorge.org/)
@@ -141,6 +144,11 @@
 - [Éric Renaud-Houde](http://num3ric.com/)
 - [Nick Hardeman](http://nickhardeman.com/)
 - [Isaac Cohen](http://cabbi.bo/)
+- [Charlie Whitney](http://charliewhitney.com/)
+- [Oriol Ferrer Mesià](http://uri.cat/)
+- [Andrew McWilliams](https://jahya.net/)
+- [Eli Fitch](http://eli.wtf/)
+- [Rob Smittenaar](http://robsmittenaar.com/)
 
 ## Experiments
 - [Activation Nodeplus Lab](http://www.acnplwgl.com/)
@@ -162,6 +170,7 @@
 - [Three.js Examples](http://www.smartjava.org/content/all-109-examples-my-book-threejs-threejs-version-r63)
 - [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/)
 - [Pixi.js Showcase](http://www.html5gamedevs.com/topic/494-pixijs-showcase/)
+- [Modular WebGL with PEX](http://marcinignac.com/blog/modular-webgl-with-pex/)
 
 ## Stylesheets
 - [SASS Guidelines](http://sass-guidelin.es/)
