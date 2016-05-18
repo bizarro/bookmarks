@@ -51,6 +51,9 @@
 - [The Mill](http://www.themill.com/)
 - [Red Paper Heart](http://www.redpaperheart.com/)
 - [Variable](http://variable.io/)
+- [Strukt](http://strukt.com/)
+- [is this good?](http://isthis.gd/)
+- [Mashmallow Laser Feast](https://vimeo.com/marshmallowlaserfeast)
 
 ## Inspiration
 - [Cryptaris Mission](http://www.cryptarismission.com/)
@@ -90,7 +93,6 @@
 - [Maeva Barrière](http://maevabarriere.com/)
 - [Sound of Change](http://sound-of-change.com/)
 - [Galaxia](http://www.galaxia.co/)
-- [Rachet & Clank](http://www.ratchetandclankthemovie.com/)
 - [Data-Data](http://dada-data.net/en/)
 - [Porsche Blackbox](http://onformative.com/public/porsche-blackbox/)
 - [US Air Force](https://www.airforce.com/)
@@ -100,6 +102,8 @@
 - [Studio Marani](http://www.studiomarani.it/en/)
 - [Cavalier](https://cavalierchallenge.com/)
 - [Sirin Solarin](http://www.sirinlabs.com/)
+- [Benjamin Guedj](http://www.oursroux.com/)
+- [Paper Planes](https://paperplanes.withgoogle.com/)
 
 ## People
 - [James George](http://jamesgeorge.org/)
@@ -149,6 +153,12 @@
 - [Andrew McWilliams](https://jahya.net/)
 - [Eli Fitch](http://eli.wtf/)
 - [Rob Smittenaar](http://robsmittenaar.com/)
+- [Marcelo Armendáriz](http://armdz.com/)
+- [Marius Watz](http://mariuswatz.com/)
+- [Memo Akten](http://www.memo.tv/)
+- [Marek Bereza](http://www.mazbox.com/)
+- [Chris Plant](http://www.colour-burst.com/)
+- [Matt Pearson](http://zenbullets.com/)
 
 ## Experiments
 - [Activation Nodeplus Lab](http://www.acnplwgl.com/)
@@ -171,6 +181,8 @@
 - [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/)
 - [Pixi.js Showcase](http://www.html5gamedevs.com/topic/494-pixijs-showcase/)
 - [Modular WebGL with PEX](http://marcinignac.com/blog/modular-webgl-with-pex/)
+- [Generate Me](https://generateme.wordpress.com/)
+- [Rectangle World](http://rectangleworld.com/blog/)
 
 ## Stylesheets
 - [SASS Guidelines](http://sass-guidelin.es/)
@@ -224,3 +236,6 @@
 - [Web Field Manual](http://webfieldmanual.com/)
 - [Web Resources](http://webressources.fr/)
 - [WWWHERE](http://wwwhere.io/)
+- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+- [Really Good Emails](http://reallygoodemails.com/)
+- [Music For Programming](http://musicforprogramming.net/)
