@@ -54,6 +54,16 @@
 - [Strukt](http://strukt.com/)
 - [is this good?](http://isthis.gd/)
 - [Mashmallow Laser Feast](https://vimeo.com/marshmallowlaserfeast)
+- [RESPONSIVE](http://www.responsve.com/)
+- [Obscura Digital](http://obscuradigital.com/)
+- [mySquare](http://www.mysquare.ch/)
+- [Elastique.](https://www.elastique.de/work/)
+- [onedotzero](http://onedotzero.com/projects/showreel)
+- [Nexus Interactive Arts](http://www.nexusproductions.com/interactive-arts)
+- [Studio Kraftwerk](https://studiokraftwerk.com/)
+- [Immersive Garden](http://immersive-g.com/)
+- [Mirada](http://mirada.com/)
+- [Cartelle](http://www.cartelle.nl/)
 
 ## Inspiration
 - [Cryptaris Mission](http://www.cryptarismission.com/)
@@ -104,6 +114,11 @@
 - [Sirin Solarin](http://www.sirinlabs.com/)
 - [Benjamin Guedj](http://www.oursroux.com/)
 - [Paper Planes](https://paperplanes.withgoogle.com/)
+- [Booounce!](http://booounce.cmiscm.com/)
+- [Google Play Redesign](http://googleplay.flatata.com/)
+- [Stand Up To Cancer](https://howifight.53.com/)
+- [Mastered From Chaos](https://masteredfromchaos.com/)
+- [PROJECT DISRUPTION](http://na.leagueoflegends.com/en/featured/skins/project-2016)
 
 ## People
 - [James George](http://jamesgeorge.org/)
@@ -159,6 +174,13 @@
 - [Marek Bereza](http://www.mazbox.com/)
 - [Chris Plant](http://www.colour-burst.com/)
 - [Matt Pearson](http://zenbullets.com/)
+- [Kyle McDonald](http://kylemcdonald.net/)
+- [Raven Kwok](http://ravenkwok.com/)
+- [Neil Mendoza](http://www.neilmendoza.com/)
+- [Ari Weinkle](http://ariweinkle.com/)
+- [Takumi Hasegawa](https://tkmh.me/)
+- [Johnny Slack](http://www.johnnyslack.co/)
+- [David Kirschberg](http://kirschberg.co.nz/)
 
 ## Experiments
 - [Activation Nodeplus Lab](http://www.acnplwgl.com/)
@@ -183,6 +205,8 @@
 - [Modular WebGL with PEX](http://marcinignac.com/blog/modular-webgl-with-pex/)
 - [Generate Me](https://generateme.wordpress.com/)
 - [Rectangle World](http://rectangleworld.com/blog/)
+- [WebGL Playground](http://webglplayground.net/gallery)
+- [Babylon.js - WebGL Game](https://www.smashingmagazine.com/2016/07/babylon-js-building-sponza-a-cross-platform-webgl-game/)
 
 ## Stylesheets
 - [SASS Guidelines](http://sass-guidelin.es/)
